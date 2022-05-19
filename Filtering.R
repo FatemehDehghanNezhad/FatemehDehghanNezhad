@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @FatemehDehghanNezhad
-- 👀 I’m interested in neuroscience
-- 🌱 I’m currently learning R
-- 📫 f.dehghan.nezhad.d@gmail.com
+---
+author: "Fatemeh Dehghan Nezhad"
+date: '2022-05-19'
+output: csv file
+---
+📫 f.dehghan.nezhad.d@gmail.com
+
 
 ##Narrowing down list of papers from Scopus using the JCI ranking
 # Importing necessary packages
